@@ -66,6 +66,70 @@
 
 <img width="606" alt="image" src="https://github.com/Aniket2k15/Stores-Sales-Trends-/assets/138878014/5cc6df6e-2dd3-4cdf-a3dc-0ff964aa7303">
 
+## Let's view the corelation of sales with its features 
+
+<img width="229" alt="image" src="https://github.com/Aniket2k15/Stores-Sales-Trends-/assets/138878014/881bc82c-8060-4974-9420-db957edac90a">
+
+## The average sales and number of customers per month 
+
+<img width="452" alt="image" src="https://github.com/Aniket2k15/Stores-Sales-Trends-/assets/138878014/b7dc49e8-8bc9-418d-ba7d-37e0c9967bf7">
+
+<img width="449" alt="image" src="https://github.com/Aniket2k15/Stores-Sales-Trends-/assets/138878014/40b53227-5a44-4e89-968b-77ea7b290b5a">
+
+## The sales and customers per day of the month 
+
+<img width="452" alt="image" src="https://github.com/Aniket2k15/Stores-Sales-Trends-/assets/138878014/dfdccc9c-8f81-4f3e-bdd5-f46c746b7f69">
+
+<img width="447" alt="image" src="https://github.com/Aniket2k15/Stores-Sales-Trends-/assets/138878014/8740346c-7756-4d93-b703-b5b5325762f8">
+
+## The sales according to Days of the week 
+
+<img width="453" alt="image" src="https://github.com/Aniket2k15/Stores-Sales-Trends-/assets/138878014/3235d3fb-cc10-48f6-b43d-51531f020f8f">
+
+<img width="452" alt="image" src="https://github.com/Aniket2k15/Stores-Sales-Trends-/assets/138878014/f567f45d-1ea5-4ef5-90fb-b0d21c49a7b2">
+
+
+# Predicting Sales through Facebook Prophet
+### Prophet is a procedure for forecasting time series data where non - linear trends are fit yearly, weekly, daily, plus holiday effects 
+
+<img width="389" alt="image" src="https://github.com/Aniket2k15/Stores-Sales-Trends-/assets/138878014/3702324b-5e04-4e8b-aa6d-27226cd46c74">
+
+<img width="532" alt="image" src="https://github.com/Aniket2k15/Stores-Sales-Trends-/assets/138878014/4fe2f7ee-6458-4c6e-935a-ccef9910cff1">
+
+<img width="477" alt="image" src="https://github.com/Aniket2k15/Stores-Sales-Trends-/assets/138878014/defd29e1-58db-4b96-bb22-f2b4ab5e4a2c">
+
+<img width="479" alt="image" src="https://github.com/Aniket2k15/Stores-Sales-Trends-/assets/138878014/e2385328-7dd4-4436-b1de-8da5564a3114">
+
+<img width="478" alt="image" src="https://github.com/Aniket2k15/Stores-Sales-Trends-/assets/138878014/68d0fe7e-a183-42a4-935b-c29c7d181479">
+
+## Predictions using holidays for a specific store
+
+<img width="404" alt="image" src="https://github.com/Aniket2k15/Stores-Sales-Trends-/assets/138878014/f0297cd6-44fc-44b4-a687-05a80ed367bc">
+
+<img width="439" alt="image" src="https://github.com/Aniket2k15/Stores-Sales-Trends-/assets/138878014/d9a1e167-7030-4ec8-a549-cbcbf47baa2f">
+
+<img width="443" alt="image" src="https://github.com/Aniket2k15/Stores-Sales-Trends-/assets/138878014/e29c68ea-652e-484c-a1d3-aba73b6bb4a5">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
